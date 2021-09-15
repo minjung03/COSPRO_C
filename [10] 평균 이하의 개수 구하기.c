@@ -23,11 +23,11 @@ int main() {
     int data_len1 = 10;
     int ret1 = solution(data1, data_len1);
 
-    printf("solution ÇÔ¼öÀÇ ¹İÈ¯ °ªÀº %d ÀÔ´Ï´Ù.\n", ret1);
+    printf("solution í•¨ìˆ˜ì˜ ë°˜í™˜ ê°’ì€ %d ì…ë‹ˆë‹¤.\n", ret1);
 
     int data2[10] = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 10 };
     int data_len2 = 10;
     int ret2 = solution(data2, data_len2);
 
-    printf("solution ÇÔ¼öÀÇ ¹İÈ¯ °ªÀº %d ÀÔ´Ï´Ù.\n", ret2);
+    printf("solution í•¨ìˆ˜ì˜ ë°˜í™˜ ê°’ì€ %d ì…ë‹ˆë‹¤.\n", ret2);
 }

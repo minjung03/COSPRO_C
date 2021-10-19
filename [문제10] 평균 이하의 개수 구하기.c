@@ -17,6 +17,7 @@ int solution(int data[], int data_len) {
 
     return cnt;
 }
+
 int main() {
     int data1[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
     int data_len1 = 10;

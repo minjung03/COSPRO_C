@@ -27,10 +27,10 @@ int main() {
 	int shirt_size_len = 6;
 	int* ret = solution(shirt_size, shirt_size_len);
 
-	printf("solution ÇÔ¼öÀÇ ¹İÈ¯ °ªÀº {");
+	printf("solution Ã‡Ã”Â¼Ã¶Ã€Ã‡ Â¹ÃÃˆÂ¯ Â°ÂªÃ€Âº {");
 	for (int i = 0; i < 6; i++) {
 		if (i != 0) printf(", ");
 		printf("%d", ret[i]);
 	}
-	printf("} ÀÔ´Ï´Ù.\n");
+	printf("\n");
 }
